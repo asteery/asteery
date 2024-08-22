@@ -17,11 +17,10 @@
     about me ♥︎
 
     
-    │▸ she/her - brazilian - (english, spanish, libras & pt/br)
+    │▸ she/her - brazilian - (english, spanish & pt/br)
     │   ┗ ▸ software engineer, Cyber Security & backend                                              
     │▸ learning
         ┗ ▸  python
-          ▸  python for data analysis
           ▸  introduction to cybersecurity
           ▸  english
 
