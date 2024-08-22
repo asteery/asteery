@@ -14,7 +14,7 @@
                                                                                                   
                                                                                                     
         
-    about me ♥︎
+    about me 
 
     
     │▸ she/her - brazilian - (english, spanish & pt/br)
