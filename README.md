@@ -18,7 +18,7 @@
 
     
     │▸ she/her - brazilian - (english, spanish & pt/br)
-    │   ┗ ▸ software engineer, Cyber Security & backend                                              
+    │   ┗ ▸ software engineer, Cyber Security & back-end                                              
     │▸ learning
         ┗ ▸  python
           ▸  introduction to cybersecurity
