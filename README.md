@@ -22,6 +22,6 @@
     │▸ learning
         ┗ ▸  python
           ▸  introduction to cybersecurity
-          ▸  english
+          ▸  advanced english
 
 
