@@ -18,7 +18,7 @@
 
     
     │▸ she/her - br - (english, spanish & pt/br)
-    │   ┗ ▸ software engineer, Cyber Security & back-end                                              
+    │   ┗ ▸ software engineer, Cyber Security, front-end & back-end                                              
     │▸ learning
         ┗ ▸  advanced english
           ▸  introduction to cybersecurity
