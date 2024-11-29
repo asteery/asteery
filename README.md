@@ -18,10 +18,10 @@
 
     
     │▸ she/her - br - (english, spanish & pt/br)
-    │   ┗ ▸ software engineer, Cyber Security, front-end & back-end                                              
-    │▸ learning
+    │   ┗ ▸ learning about software engineer, Cyber Security, Java, front-end & back-end                                              
+    │▸ 
         ┗ ▸  advanced english
-          ▸  introduction to cybersecurity
-          ▸  python
+          ▸  introduction to front-end
+          ▸  python, HTML, CSS & Ruby
 
 
